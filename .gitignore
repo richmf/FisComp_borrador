@@ -1,3 +1,2 @@
-
-.ipynb_checkpoints/dos_planetas-checkpoint.ipynb
-.ipynb_checkpoints/dos_planetas-checkpoint.ipynb
+.DS_Store
+.ipynb_checkpoints/*
