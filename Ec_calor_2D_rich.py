@@ -73,10 +73,10 @@ psi_ini = cond_ini_dona(x,y)
 
 
 solucion = CR_2D(psi_ini,x,y,t,0.1)
-save('sol_EcCalor2D_D0-1_rich')
+save('sol_EcCalor2D_D0-1_rich',solucion)
 
 
-# In[8]:
+# In[5]:
 
 
 XX,YY = meshgrid(x,y)
